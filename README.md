@@ -186,39 +186,28 @@ Data[Status]="Placed"
 
 ---
 
-## ⚙️ How to Open the Project
+## How to Open the Project
 
 ### Requirements
-
 - Microsoft Power BI Desktop
 
 ### Steps
-
 1. Clone the repository
-
 ```bash
 git clone https://github.com/yourusername/College-Placement-Dashboard.git
 ```
-
 2. Open
-
 ```
 College Placement Dashboard.pbix
 ```
-
 using **Microsoft Power BI Desktop**.
 
 3. Click
-
-```
-Refresh
-```
-
 to load the latest dataset.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dashboard is created using placement-related data containing:
 
@@ -235,7 +224,7 @@ The dashboard is created using placement-related data containing:
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - AI-based Placement Prediction
 - Resume Analysis Dashboard
@@ -251,10 +240,3 @@ The dashboard is created using placement-related data containing:
 ## 👩‍💻 Developed By
 
 **Shrushti R. Handge**
-
-
----
-
-## 📄 License
-
-This project is developed for educational and academic purposes only.
