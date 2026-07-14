@@ -240,3 +240,6 @@ The dashboard is created using placement-related data containing:
 ## 👩‍💻 Developed By
 
 **Shrushti R. Handge**
+
+<img width="1911" height="1012" alt="Screenshot 2" src="https://github.com/user-attachments/assets/69d5f692-0163-495e-9842-77016c061749" />
+
